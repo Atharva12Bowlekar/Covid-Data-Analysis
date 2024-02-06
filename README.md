@@ -25,10 +25,3 @@ To utilize the "Corona.sql" script for COVID-19 data analysis:
 3. Customize the queries as needed to suit your specific analysis requirements, such as adjusting the time period, geographical scope, or metrics of interest.
 4. Analyze the query results and, if desired, generate visualizations to convey key insights derived from the data.
 
-**Contributions:**
-
-Contributions to this repository, such as additional SQL queries for different analyses or improvements to existing queries, are welcome. Please follow standard GitHub practices for contributing.
-
-**Disclaimer:**
-
-The analysis conducted using the "Corona.sql" script is for informational purposes only and should not be construed as medical or public health advice. It is essential to consult authoritative sources and experts for accurate information and guidance regarding COVID-19.
